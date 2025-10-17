@@ -1,0 +1,32 @@
+{
+    "title": "RoastMaster AI",
+    "subtitle": "Upload your pic. Get wrecked by our AI. Don't take it personally.",
+    "changeLanguage": "Change language",
+    "roasting": "Roasting...",
+    "roastMe": "Roast Me!",
+    "roastFailed": "Roast Failed",
+    "imageTooLargeTitle": "Image too large",
+    "imageTooLargeDesc": "Please upload an image smaller than 4MB.",
+    "uploadMessage": "Click to upload or drag & drop",
+    "uploadHint": "PNG, JPG, or WEBP (max 4MB)",
+    "imagePreviewAlt": "Image preview",
+    "userSubmissionAlt": "User submission for roast",
+    "vibeCheck": "Vibe Check",
+    "theRoast": "The Roast",
+    "aiTwoCents": "AI's Two Cents",
+    "roastAnother": "Roast Another",
+    "share": "Share",
+    "postOnX": "Post on X",
+    "linkCopiedTitle": "Link Copied!",
+    "linkCopiedDesc": "The share text and link have been copied to your clipboard.",
+    "shareText": "My vibe is a {{emoji}} {{vibe}}/10 on RoastMaster AI! They said: \"{{roast}}...\" Get roasted too!",
+    "loadingMessages": [
+      "AI is sharpening its tongue...",
+      "Brewing up a fresh batch of burns...",
+      "Analyzing your questionable life choices...",
+      "Consulting the sass dictionary...",
+      "Warming up the roast machine...",
+      "Finding the perfect angle to attack...",
+      "Don't worry, this will only hurt your feelings..."
+    ]
+}

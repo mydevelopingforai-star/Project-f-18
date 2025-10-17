@@ -1,0 +1,32 @@
+{
+    "title": "RoastMaster AI",
+    "subtitle": "Sube tu foto. Sé destrozado por nuestra IA. No te lo tomes personal.",
+    "changeLanguage": "Cambiar idioma",
+    "roasting": "Asando...",
+    "roastMe": "¡Ásame!",
+    "roastFailed": "Fallo en el asado",
+    "imageTooLargeTitle": "Imagen demasiado grande",
+    "imageTooLargeDesc": "Por favor, sube una imagen de menos de 4MB.",
+    "uploadMessage": "Haz clic para subir o arrastra y suelta",
+    "uploadHint": "PNG, JPG, o WEBP (máx 4MB)",
+    "imagePreviewAlt": "Vista previa de la imagen",
+    "userSubmissionAlt": "Foto enviada por el usuario para ser asada",
+    "vibeCheck": "Chequeo de vibra",
+    "theRoast": "El Asado",
+    "aiTwoCents": "La opinión de la IA",
+    "roastAnother": "Asar a Otro",
+    "share": "Compartir",
+    "postOnX": "Publicar en X",
+    "linkCopiedTitle": "¡Enlace Copiado!",
+    "linkCopiedDesc": "El texto y el enlace para compartir han sido copiados a tu portapapeles.",
+    "shareText": "¡Mi vibra es un {{emoji}} {{vibe}}/10 en RoastMaster AI! Dijeron: \"{{roast}}...\" ¡Haz que te asen a ti también!",
+    "loadingMessages": [
+      "La IA está afilando su lengua...",
+      "Preparando una nueva tanda de quemaduras...",
+      "Analizando tus cuestionables decisiones de vida...",
+      "Consultando el diccionario de descaro...",
+      "Calentando la máquina de asar...",
+      "Encontrando el ángulo perfecto para atacar...",
+      "No te preocupes, esto solo herirá tus sentimientos..."
+    ]
+}

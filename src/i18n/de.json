@@ -1,0 +1,32 @@
+{
+    "title": "RoastMaster KI",
+    "subtitle": "Lade dein Bild hoch. Lass dich von unserer KI fertigmachen. Nimm es nicht persönlich.",
+    "changeLanguage": "Sprache ändern",
+    "roasting": "Rösten...",
+    "roastMe": "Röste mich!",
+    "roastFailed": "Rösten fehlgeschlagen",
+    "imageTooLargeTitle": "Bild zu groß",
+    "imageTooLargeDesc": "Bitte lade ein Bild hoch, das kleiner als 4MB ist.",
+    "uploadMessage": "Klicken zum Hochladen oder Drag & Drop",
+    "uploadHint": "PNG, JPG oder WEBP (max. 4MB)",
+    "imagePreviewAlt": "Bildvorschau",
+    "userSubmissionAlt": "Benutzereinreichung zum Rösten",
+    "vibeCheck": "Vibe-Check",
+    "theRoast": "Der Roast",
+    "aiTwoCents": "Die zwei Cent der KI",
+    "roastAnother": "Einen anderen rösten",
+    "share": "Teilen",
+    "postOnX": "Auf X posten",
+    "linkCopiedTitle": "Link kopiert!",
+    "linkCopiedDesc": "Der Freigabetext und der Link wurden in Ihre Zwischenablage kopiert.",
+    "shareText": "Mein Vibe ist ein {{emoji}} {{vibe}}/10 auf RoastMaster KI! Sie sagten: \"{{roast}}...\" Lass dich auch rösten!",
+    "loadingMessages": [
+      "KI schärft ihre Zunge...",
+      "Eine frische Ladung Verbrennungen wird gebraut...",
+      "Analyse deiner fragwürdigen Lebensentscheidungen...",
+      "Das Frechheitswörterbuch wird konsultiert...",
+      "Die Röstmaschine wird aufgewärmt...",
+      "Der perfekte Angriffswinkel wird gesucht...",
+      "Keine Sorge, das wird nur deine Gefühle verletzen..."
+    ]
+}

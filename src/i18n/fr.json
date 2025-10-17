@@ -1,0 +1,32 @@
+{
+    "title": "RoastMaster IA",
+    "subtitle": "Téléchargez votre photo. Faites-vous démolir par notre IA. Ne le prenez pas personnellement.",
+    "changeLanguage": "Changer de langue",
+    "roasting": "Rôtissage en cours...",
+    "roastMe": "Rôtis-moi !",
+    "roastFailed": "Le rôtissage a échoué",
+    "imageTooLargeTitle": "Image trop grande",
+    "imageTooLargeDesc": "Veuillez télécharger une image de moins de 4 Mo.",
+    "uploadMessage": "Cliquez pour télécharger ou glisser-déposer",
+    "uploadHint": "PNG, JPG, ou WEBP (max 4MB)",
+    "imagePreviewAlt": "Aperçu de l'image",
+    "userSubmissionAlt": "Photo soumise par l'utilisateur pour le rôtissage",
+    "vibeCheck": "Vibe Check",
+    "theRoast": "Le Rôtissage",
+    "aiTwoCents": "L'avis de l'IA",
+    "roastAnother": "Rôtir un autre",
+    "share": "Partager",
+    "postOnX": "Publier sur X",
+    "linkCopiedTitle": "Lien copié !",
+    "linkCopiedDesc": "Le texte et le lien à partager ont été copiés dans votre presse-papiers.",
+    "shareText": "Ma vibe est un {{emoji}} {{vibe}}/10 sur RoastMaster IA ! Ils ont dit : \"{{roast}}...\" Faites-vous rôtir aussi !",
+    "loadingMessages": [
+      "L'IA aiguise sa langue...",
+      "Préparation d'une nouvelle fournée de brûlures...",
+      "Analyse de vos choix de vie discutables...",
+      "Consultation du dictionnaire de l'impertinence...",
+      "Mise en chauffe de la machine à rôtir...",
+      "Recherche de l'angle d'attaque parfait...",
+      "Ne vous inquiétez pas, cela ne fera que blesser vos sentiments..."
+    ]
+}

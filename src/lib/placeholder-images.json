@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "roast-master-placeholder",
+      "description": "Placeholder image for the uploader",
+      "imageUrl": "https://picsum.photos/seed/roast1/1024/1024",
+      "imageHint": "funny portrait"
+    }
+  ]
+}
